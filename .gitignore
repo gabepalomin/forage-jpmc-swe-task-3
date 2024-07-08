@@ -11,6 +11,8 @@
 # production
 /build
 
+/task3/*
+
 # misc
 .DS_Store
 .env.local
